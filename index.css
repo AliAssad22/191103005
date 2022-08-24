@@ -1,0 +1,95 @@
+/*.left{color: white; margin-left: 92%; font-style: normal;}
+.black{background-color: black; width: 100%; margin-top: -2%;}
+.pad{background-color: white;padding: 10px 10px 10px 10px; border: black 2px; width: 100%;}
+.im{width: 50px; height: auto;}
+ul{list-style-type: none;margin-left: 3%;display: inline-block;}
+li{float: left;margin-right: 15px;}
+a{text-decoration: none;color: #000;}
+.white{background-color: white; width: 100%;}
+button{background-color: black; color: white; margin-left: 50%; margin-top: 5px;}
+.small{width: 100%; height: auto;}
+.container {position: relative; text-align: center; color: white;}
+.centered {position: absolute; top: 50%; left: 25%; font-size: large;}
+.big{position: absolute; top: 70%; left: 25%; font-size: large;}*/
+	.navcol{background-color: white !important;box-shadow: 0 1px 12px rgba(0, 0, 0, 0.3);  margin-top: -0.7%;}
+	.mg{margin-top: -1%; padding: 0 !important;}
+	.btn-black{background-color: black; color: white; border-radius: 999px !important;}
+	.pr{float: right !important;}
+	.navbar-nav{width: 100% !important;}
+	.sp{margin-left: 10px;}
+	.centered {position: absolute; top: 10%; left: 20%; color: white; font-size: 70px; width: 10%;}
+	.center{position: absolute; top: 50%; left: 20%; color: white; font-size: 30px; width: 25%;}
+	.cent{position: absolute; top: 69%; left: 20%; color: white; font-size: 15px; width: 30%;}
+	.box{width: 40%;}
+	.btn-red{background-color: #cd3d0f; color: white; border-radius: 999px !important; position: absolute; top: 80%; left: 20%; color: white; font-size: 20px; width: 150px; }
+	.btn-wh{background-color: white; color: white; border-radius: 999px !important; position: absolute; top: 90%; left: 20%; color: black; font-size: 20px; width: 250px; }
+	.small{width: 150px; height: auto; margin-left: 2%; border-radius: 10px !important; }
+	.dummy:hover{
+		border: 2px solid black;
+		border-radius: 4px; size: 100px !important;  position:relative;
+    top:-25px;
+    left:-35px;
+    width:200px;
+    height:auto;
+	}
+	.move{margin-left: 20%; width: 150px; height: auto; border-radius: 10px !important;}
+	.new{width: 150px; height: auto; margin-left: 2%; border-radius: 10px !important;}
+	.wow{width: 150px; height: auto; margin-left: 2%; border-radius: 10px !important;}
+	.mad{width: 150px; height: auto; margin-left: 2%; border-radius: 10px !important;}
+	.top{margin-top: 0.5%;}
+	.ups{position: absolute; top: 10%; left: 20%; color: white; font-size: 30px; width: 19%;}
+	.chun{position: absolute; top: 29%; left: 20%; color: white; font-size: 20px; width: 30%;}
+	.btn-bl{background-color: white; color: white; border-radius: 999px !important; position: absolute; top: 45%; left: 20%; color: black; font-size: 20px; width: 130px;}
+	.bk{background-color: #26254e;}
+	.hey{margin-left: 20%; width: 250px; height: auto; border-radius: 10px !important;}
+	.boy{width: 250px; height: auto; margin-left: 2%; border-radius: 10px !important;}
+	.you{width: 250px; height: auto; margin-left: 2%; border-radius: 10px !important;}
+	.bl{background-color: black !important;}
+	.pad{padding: 0% 0% 0% 0% !important;}
+	.pull{margin-left: 1200px !important;}
+	.hi{height: all; margin-top: -18px;}
+	.mo{margin-top: 5px !important;}
+    /*.togglesearch{*/
+      background: #E8E8E4;*/
+      position: absolute;
+      top: 54px;
+      right: 28.7%;
+      width: 350px;
+      height: 60px;
+      line-height: 60px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+      border-top:4px solid #D80B15;
+      display: none;
+    }
+     
+    .togglesearch:before{
+      content: "";
+      position: absolute;
+      top: -32px;
+      right: 13px;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-top: 14px solid transparent;
+      border-bottom: 14px solid #D80B15;
+    }
+     
+    .togglesearch input[type="text"]{
+      width: 200px;
+      padding: 5px 10px;
+      margin-left: 23px;
+      border: 1px solid #D80B15;
+      outline: none;
+    }
+     
+    .togglesearch input[type="button"]{
+      width: 80px;
+      padding: 5px 0;
+      /*background: #D80B15;*/
+      color: #fff;
+      margin-left: -6px;
+      border: 1px solid;
+      outline: none;
+      cursor: pointer;
+    }
+    .rt{margin-left:50px !important ;}
+    .wt{width: 150px !important;}
