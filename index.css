@@ -21,7 +21,7 @@ button{background-color: black; color: white; margin-left: 50%; margin-top: 5px;
 	.center{position: absolute; top: 50%; left: 20%; color: white; font-size: 30px; width: 25%;}
 	.cent{position: absolute; top: 69%; left: 20%; color: white; font-size: 15px; width: 30%;}
 	.box{width: 40%;}
-	.btn-red{background-color: #cd3d0f; color: white; border-radius: 999px !important; position: absolute; top: 80%; left: 20%; color: white; font-size: 20px; width: 150px; }
+	.btn-red{background-color: #cd3d0f; color: white; border-radius: 999px !important; position: absolute; top: 85%; left: 20%; color: white; font-size: 20px; width: 150px; }
 	.btn-wh{background-color: white; color: white; border-radius: 999px !important; position: absolute; top: 90%; left: 20%; color: black; font-size: 20px; width: 250px; }
 	.small{width: 150px; height: auto; margin-left: 2%; border-radius: 10px !important; }
 	.dummy:hover{
